@@ -1,0 +1,4 @@
+def parse(line):
+    return line.split(',')
+
+for row in rows: print(parse(row))
